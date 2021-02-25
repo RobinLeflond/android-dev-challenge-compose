@@ -80,14 +80,12 @@ fun calculateScreenSpecs(): ScreenSpecs {
     )
 }
 
-
-class ScreenSpecs(var density: Float = 0F,
-                  var pxWidth: Float = 0F,
-                  var pxHeight: Float = 0F) {
+class ScreenSpecs(
+    var density: Float = 0F,
+    var pxWidth: Float = 0F,
+    var pxHeight: Float = 0F
+) {
 
     var dpWidth: Dp = 1.dp * pxWidth / density
     var dpHeight = 1.dp * pxHeight / density
 }
-
-
-
