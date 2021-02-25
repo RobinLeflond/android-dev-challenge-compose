@@ -8,7 +8,7 @@ A Puppy adoption app developped using Jetpack Compose.
 
 ## :bulb: Motivation and Context
 
-This proyect was realised for the Android Dev Challenge Compose. I would its main strengths are the
+This proyect was realised for the Android Dev Challenge Compose. I would say its main strengths are the
 quality of the code and the design.
 
 ## :camera_flash: Screenshots
