@@ -81,6 +81,7 @@ fun DogsList(navigationViewModel: NavigationViewModel, dogsData: List<Dog>) {
     }
 }
 
+
 @Composable
 fun DogCard(navigationViewModel: NavigationViewModel, dog: Dog) {
     Card(
